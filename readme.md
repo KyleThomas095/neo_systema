@@ -254,7 +254,7 @@ MIT License - See LICENSE file for details.
 
 ## Credits
 
-Created by Sage Veda, Knowledge Architect  
+Created by Sage Veda, Knowledge Architect (Claude 4.0)  
 Built with librosa, numpy, and the scientific Python ecosystem.
 
 ---
